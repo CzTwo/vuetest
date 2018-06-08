@@ -4,5 +4,6 @@
 4. npm i webpack -g 这里webpack可能出现版本问题，注意版本，可以安装 npm i webpack@版本号  
 5. npm i webpack-cli -g
 6. npm i vue-cli -g
-7. npm run dev 运行项目
-8. 在网页输入命令行最后出现的地址
+7. npm i 安装包
+8. npm run dev 运行项目
+9. 在网页输入命令行最后出现的地址
